@@ -1,10 +1,10 @@
 ☕ Tea Trend & Spend Analysis – Power BI Dashboard
 
-📊 Project Overview
+📊 Project Overview 
 The Tea Trend & Spend Analysis Dashboard is an interactive Power BI project designed to analyze tea consumption patterns, spending behavior, and sales trends over time. 
 It leverages Advanced DAX functions to deliver meaningful business insights through visually appealing dashboards.
 
-🚀 Key Features
+🚀 Key Features 
 Spending Trend Over Time (Monthly Analysis)
 Peak Hour Analysis (Highest spend & cups sold)
 Tea Category Insights (Adrak, Masala, Green Tea, Irani Chai, etc.)
@@ -19,7 +19,7 @@ DAX (Advanced Calculations)
 Data Modeling
 Interactive Visualizations
 
-📌 Key Metrics Displayed
+📌 Key Metrics Displayed 
 Total Spend
 Total Cups Sold
 Peak Hour Spend
@@ -27,7 +27,7 @@ Peak Hour Cups Sold
 Average Spend (Weekday vs Weekend)
 Time-based Spend Distribution
 
-🧠 DAX Concepts Used
+🧠 DAX Concepts Used 
 CALCULATE
 FILTER
 TIME INTELLIGENCE FUNCTIONS
